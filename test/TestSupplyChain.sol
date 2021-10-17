@@ -10,7 +10,6 @@ contract TestSupplyChain {
     // https://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests
 
     // buyItem
-
     // test for failure if user does not send enough funds
     // test for purchasing an item that is not for Sale
 
